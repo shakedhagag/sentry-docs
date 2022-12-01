@@ -29,7 +29,6 @@
 
 @import "_includes/variables";
 @import "_includes/bootstrap-overrides";
-@import "~bootstrap/scss/bootstrap";
 @import "_includes/type";
 @import "_includes/grid";
 @import "_includes/highlight";
@@ -55,6 +54,7 @@
 @import "_includes/large-definition-list";
 @import "_includes/banner";
 @import "_includes/terms";
+@import "~bootstrap/scss/bootstrap";
 
 body {
   -webkit-font-smoothing: antialiased;
