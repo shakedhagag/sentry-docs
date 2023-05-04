@@ -156,6 +156,9 @@ function IndexPage() {
                 <a href="/product/session-replay/">Session Replay</a>
               </li>
               <li>
+                <a href="/product/profiling/">Profiling</a>
+              </li>
+              <li>
                 <a href="/product/releases/health/">Release Health</a>
               </li>
               <li>
